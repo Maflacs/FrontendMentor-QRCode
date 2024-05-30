@@ -54,7 +54,8 @@ img {
     width: 100%;
 }
 
-h2 {
+h1 {
+    font-size: 22px;
     font-weight: 700;
     color: var(--darkBlue);
 }
